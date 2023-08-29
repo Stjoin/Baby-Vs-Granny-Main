@@ -1,0 +1,8 @@
+[package]
+name = "legendoj1/viewportfitter"
+description = "Port of EgoMoose's ViewportModel.lua"
+version = "1.0.1"
+license = "MIT"
+authors = ["EgoMoose", "MagmaBurnsV"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"

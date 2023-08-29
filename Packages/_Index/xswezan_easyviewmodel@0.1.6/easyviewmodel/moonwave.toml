@@ -1,0 +1,13 @@
+gitRepoUrl = "https://github.com/xSwezan/MODULE_NAME"
+gitSourceBranch = "main"
+
+classorder = [
+
+]
+
+[home]
+enabled = true
+includeReadme = false
+
+[docusaurus]
+tagline = "PLACEHOLDER"

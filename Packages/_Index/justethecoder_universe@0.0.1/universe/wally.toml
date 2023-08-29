@@ -1,0 +1,11 @@
+[package]
+name = "justethecoder/universe"
+description = "A safe library for teleporting players between places"
+version = "0.0.1"
+license = "MIT"
+authors = ["JusteTheCoder"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@^4"

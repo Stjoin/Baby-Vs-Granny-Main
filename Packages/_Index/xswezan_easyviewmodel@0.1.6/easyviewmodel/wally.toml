@@ -1,0 +1,14 @@
+[package]
+name = "xswezan/easyviewmodel"
+version = "0.1.6"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+# Maid = "flamenco687/maid@3.2.2"
+Janitor = "howmanysmall/janitor@1.15.1"
+Promise = "evaera/promise@4.0.0"
+Spring = "brittonfischer/spring@0.1.0"
+
+# Roact = "roblox/roact@1.4.2"
+# Roact-spring = "chriscerie/roact-spring@1.0.0"
